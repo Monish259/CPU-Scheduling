@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1534732483 source:d:\codeblocks\hmm\cpu_scheduling_project\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
